@@ -1,0 +1,19 @@
+.list-container {
+  padding: 20px;
+}
+
+.list-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.list-container th, .list-container td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.list-container th {
+  background: #2980b9;
+  color: white;
+}
